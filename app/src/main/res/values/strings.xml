@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakeHomeTest</string>
+    <string name="enterGithubUsername">Enter Github Username</string>
+    <string name="findRepos">Find Repos</string>
+</resources>
